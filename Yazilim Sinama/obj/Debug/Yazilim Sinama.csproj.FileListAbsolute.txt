@@ -1,0 +1,28 @@
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Giris.resources
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\bin\Debug\Yazilim Sinama.exe.config
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\bin\Debug\Yazilim Sinama.exe
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\bin\Debug\Yazilim Sinama.pdb
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.exe
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.pdb
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Ogrenci.resources
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Sinav.resources
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Sonuc.resources
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Ogretmen.resources
+C:\Users\ahmet\source\repos\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Admin.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\bin\Debug\Yazilim Sinama.exe.config
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\bin\Debug\Yazilim Sinama.exe
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\bin\Debug\Yazilim Sinama.pdb
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.csprojAssemblyReference.cache
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Admin.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Giris.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Ogrenci.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Ogretmen.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Sinav.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Form_Sonuc.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim_Sinama.Properties.Resources.resources
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.csproj.GenerateResource.cache
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.exe
+C:\Users\ademc\Desktop\Yazılım Sınama Projesi\sanalDershane\Yazilim Sinama\Yazilim Sinama\obj\Debug\Yazilim Sinama.pdb
